@@ -20,6 +20,7 @@ function addData() {
 
 function removeFailedStudent() {
   //Write your code here, just console.log
+  console.log("hello world");
 }
 
 function concatenateArray() {
